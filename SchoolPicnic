@@ -1,0 +1,8 @@
+#include<stdio.h>
+#include<conio.h>
+int main()
+{
+printrf("Welcome!..");
+printf("This is School Picnic Management Records");
+getch();
+}
