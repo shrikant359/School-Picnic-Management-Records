@@ -4,5 +4,6 @@ int main()
 {
 printrf("Welcome!..");
 printf("This is School Picnic Management Records");
+printf("This is Student Module");
 getch();
 }
